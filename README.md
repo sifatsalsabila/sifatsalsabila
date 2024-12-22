@@ -2,19 +2,19 @@
 <p><strong>Mechatronics and Instrument Enthusiast | Engineering Physics Student</strong></p>
 
 <h2>📊 About Me</h2>
-<p>I am a final-year undergraduate student in Engineering Physics at Universitas Gadjah Mada with a deep interest in Mechatronics and Industrial Instrumentation. I am currently working on my final year project focusing on analyzing the impact of cyber attacks on Siemens S7 1500 PLCs and HMIs. I have hands-on experience with various automation tools and control systems, including Allen-Bradley PLCs and Yokogawa DCS.</p>
+<p>I am a final year undergraduate student of Engineering Physics at Gadjah Mada University with an interest in Mechatronics and Industrial Instrumentation. I am currently completing my final project using Siemens PLC.  I have also operated Allen-Bradley PLC and Yokogawa DCS. This makes me interested in a career as a Mechatronics Engineer or Instrument Engineer. I am responsible, hardworking, and adaptable to new environments. Have a passion for continuous learning and developing new skills.</p>
 
 <h2>🌐 Skills</h2>
 <ul>
   <li><strong>Programming:</strong> Python, C, C++</li>
-  <li><strong>Software Tools:</strong> TIA Portal, RSLogix, Yokogawa DCS, AutoCAD</li>
-  <li><strong>Design:</strong> P&ID, Instrument Loop Diagrams, HMI</li>
+  <li><strong>Software Tools:</strong> TIA Portal, RSLogix, Yokogawa DCS, AutoCAD, Matlab</li>
+  <li><strong>Design:</strong> P&ID, Instrument Loop Diagrams, HMI, Wiring Diagaram</li>
 </ul>
 
 <h2>📚 Education</h2>
 <ul>
   <li><strong>Bachelor of Engineering, Engineering Physics</strong> - Universitas Gadjah Mada (2021 - Present)<br/>
-      Relevant coursework: Instrumentation System, Process Automation, Automation System Design, Analog and Digital Electronics.
+      Relevant coursework:  Analog and Electronics, Mechanics, Fluid Mechanics, Industrial Instrumentation, Process Automation, Automation System Design, Instrumentation System Practicum, Artificial intelligence (AI), Application of Microprocessor Technology etc.
   </li>
 </ul>
 
