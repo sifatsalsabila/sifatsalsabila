@@ -1,28 +1,39 @@
-<h1>Hi, I'm Sifa Tsalsabila Hasyifah! <br/><a href="https://github.com/sifatsalsabila">Mechatronics and Instrument Enthusiast</a>, <a href="https://www.linkedin.com/in/sifa-tsalsabila-hasyifah">Engineering Physics Student</a></h1>
+<h1>Hi, I'm Sifa Tsalsabila Hasyifah!</h1>
+<p><strong>Mechatronics and Instrument Enthusiast | Engineering Physics Student</strong></p>
 
-<h2>👨‍💻 Engineering and Automation Projects:</h2>
+<h2>📊 About Me</h2>
+<p>I am a final-year undergraduate student in Engineering Physics at Universitas Gadjah Mada with a deep interest in Mechatronics and Industrial Instrumentation. I am currently working on my final year project focusing on analyzing the impact of cyber attacks on Siemens S7 1500 PLCs and HMIs. I have hands-on experience with various automation tools and control systems, including Allen-Bradley PLCs and Yokogawa DCS.</p>
 
-- <b>Final Year Project: Cyber Attack Impact on Siemens S7 1500 PLC</b>
-  - [Analyzing communication efficiency in PLC systems](https://github.com/sifatsalsabila/final-year-project)
-- <b>Automation Program for Boiler Water Level Control</b>
-  - [Developed with Allen-Bradley PLC](https://github.com/sifatsalsabila/boiler-automation-project)
-- <b>P&ID and Instrumentation Design</b>
-  - [Instrument Loop Diagrams and HMI Design](https://github.com/sifatsalsabila/instrumentation-design)
-- <b>Control System Using Yokogawa DCS</b>
-  - [Industrial process control implementation](https://github.com/sifatsalsabila/yokogawa-dcs-project)
-- <b>Soft PLC and Open PLC Projects</b>
-  - [Control simulations using CODESYS](https://github.com/sifatsalsabila/soft-plc-simulations)
+<h2>🌐 Skills</h2>
+<ul>
+  <li><strong>Programming:</strong> Python, C, C++</li>
+  <li><strong>Software Tools:</strong> TIA Portal, RSLogix, Yokogawa DCS, AutoCAD</li>
+  <li><strong>Design:</strong> P&ID, Instrument Loop Diagrams, HMI</li>
+</ul>
 
-<h2>📺 Popular Contributions</h2>
+<h2>📚 Education</h2>
+<ul>
+  <li><strong>Bachelor of Engineering, Engineering Physics</strong> - Universitas Gadjah Mada (2021 - Present)<br/>
+      Relevant coursework: Instrumentation System, Process Automation, Automation System Design, Analog and Digital Electronics.
+  </li>
+</ul>
 
-- [Beginner's Guide to PLC Programming](https://github.com/sifatsalsabila/plc-programming-guide)
-- [Designing SCADA Systems: A Step-by-Step Tutorial](https://github.com/sifatsalsabila/scada-tutorial)
-- [How to Create a P&ID Diagram](https://github.com/sifatsalsabila/pid-diagram-tutorial)
+<h2>🌐 Projects</h2>
+<ul>
+  <li><strong>Final Year Project:</strong> Cyber Attack Impact on Siemens S7 1500 PLC<br/>
+      <em>Analyzing communication efficiency in PLC systems.</em>
+  </li>
+  <li><strong>Automation Program for Boiler Water Level Control:</strong><br/>
+      <em>Developed an automation system using Allen-Bradley PLC.</em>
+  </li>
+  <li><strong>P&ID and Instrumentation Design:</strong><br/>
+      <em>Created Instrument Loop Diagrams and HMI interfaces.</em>
+  </li>
+</ul>
 
-<h2> 🤝 Connect with me:</h2>
-
-[<img align="left" alt="SifaTsalsabila | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SifaTsalsabila | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-[linkedin]: https://linkedin.com/in/sifa-tsalsabila-hasyifah
-[github]: https://github.com/sifatsalsabila
+<h2>📢 Contact</h2>
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:sifa.tsalsabila.hasyifah@mail.ugm.ac.id">sifa.tsalsabila.hasyifah@mail.ugm.ac.id</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/sifa-tsalsabila-hasyifah">linkedin.com/in/sifa-tsalsabila-hasyifah</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/sifatsalsabila">github.com/sifatsalsabila</a></li>
+</ul>
