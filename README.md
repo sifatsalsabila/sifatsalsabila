@@ -33,7 +33,7 @@
 
 <h2>📢 Connect with Me</h2>
 <p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sifa.tsalsabila.hasyifah@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sifa.tsalsabila.hasyifah@mail.ugm.ac.id" target="_blank">
     <img align="left" alt="SifaTsalsabila | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
   <a href="https://linkedin.com/in/sifa-tsalsabila-hasyifah" target="_blank">
