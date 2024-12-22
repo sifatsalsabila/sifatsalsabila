@@ -31,13 +31,17 @@
   </li>
 </ul>
 
-<h2>📢 Contact</h2>
-[<img align="left" alt="SifaTsalsabila | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SifaTsalsabila | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="SifaTsalsabila | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+<h2>📢 Connect with Me</h2>
+<p>
+  <a href="mailto:sifa.tsalsabila.hasyifah@mail.ugm.ac.id" target="_blank">
+    <img align="left" alt="SifaTsalsabila | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>  
+  <a href="https://linkedin.com/in/sifa-tsalsabila-hasyifah" target="_blank">
+    <img align="left" alt="SifaTsalsabila | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/sifatsalsabila" target="_blank">
+    <img align="left" alt="SifaTsalsabila | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+</p>
+<br />
 
-<br/>
-
-[linkedin]: https://linkedin.com/in/sifa-tsalsabila-hasyifah
-[github]: https://github.com/sifatsalsabila
-[email]: mailto:sifa.tsalsabila.hasyifah@mail.ugm.ac.id
