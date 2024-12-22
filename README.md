@@ -20,7 +20,7 @@
 
 <h2>🌐 Projects</h2>
 <ul>
-  <li><strong>Final Year Project:</strong> Cyber Attack Impact on Siemens S7 1500 PLC<br/>
+  <li><strong>Final Project:</strong> Cyber Attack Impact on Siemens S7 1500 PLC<br/>
       <em>Analyzing communication efficiency in PLC systems.</em>
   </li>
   <li><strong>Automation Program for Boiler Water Level Control:</strong><br/>
