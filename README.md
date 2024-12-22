@@ -2,7 +2,7 @@
 <p><strong>Mechatronics and Instrument Enthusiast | Engineering Physics Student</strong></p>
 
 <h2>📊 About Me</h2>
-<p>I am a final year undergraduate student of Engineering Physics at Gadjah Mada University with an interest in Mechatronics and Industrial Instrumentation. I am currently completing my final project using Siemens PLC.  I have also operated Allen-Bradley PLC and Yokogawa DCS. This makes me interested in a career as a Mechatronics Engineer or Instrument Engineer. I am responsible, hardworking, and adaptable to new environments. Have a passion for continuous learning and developing new skills.</p>
+<p>I am a final year undergraduate student of Engineering Physics at Gadjah Mada University with an interest in Mechatronics and Industrial Instrumentation. I am responsible, hardworking, and adaptable to new environments. Have a passion for continuous learning and developing new skills.</p>
 
 <h2>🌐 Skills</h2>
 <ul>
