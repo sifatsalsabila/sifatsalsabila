@@ -27,7 +27,7 @@
       <em>Developed an automation system using Allen-Bradley PLC.</em>
   </li>
   <li><strong>P&ID and Instrumentation Design:</strong><br/>
-      <em>Created Instrument Loop Diagrams and HMI interfaces.</em>
+      <em>Created P&ID, Instrument Loop Diagaram, Instrument Specification Document, HMI, and Bill of Materials.</em>
   </li>
 </ul>
 
