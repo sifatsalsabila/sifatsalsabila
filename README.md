@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sifa Tsalsabila Hasyifah! <br/><a href="https://github.com/sifatsalsabila">Mechatronics Enthusiast</a>, <a href="https://www.linkedin.com/in/sifa-tsalsabila-hasyifah">Engineering Physics Student</a></h1>
+<h1>Hi, I'm Sifa Tsalsabila Hasyifah! <br/><a href="https://github.com/sifatsalsabila">Mechatronics and Instrument Enthusiast</a>, <a href="https://www.linkedin.com/in/sifa-tsalsabila-hasyifah">Engineering Physics Student</a></h1>
 
 <h2>👨‍💻 Engineering and Automation Projects:</h2>
 
