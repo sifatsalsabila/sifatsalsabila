@@ -29,6 +29,9 @@
   <li><strong>P&ID and Instrumentation Design:</strong><br/>
       <em>Created P&ID, Instrument Loop Diagaram, Instrument Specification Document, HMI, and Bill of Materials.</em>
   </li>
+  <li><strong>Control System for Reactor:</strong><br/>
+    <em>Developed a control system using Yokogawa DCS.</em>
+  </li>
 </ul>
 
 <h2>📢 Connect with Me</h2>
