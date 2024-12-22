@@ -16,6 +16,8 @@
   <li><strong>Bachelor of Engineering, Engineering Physics</strong> - Universitas Gadjah Mada (2021 - Present)<br/>
       Relevant coursework:  Analog and Electronics, Mechanics, Fluid Mechanics, Industrial Instrumentation, Process Automation, Automation System Design, Instrumentation System Practicum, Artificial intelligence (AI), Application of Microprocessor Technology etc.
   </li>
+  <li><strong>Mathematic and Sciense</strong> - SMAN 1 Tasikmalaya (2018 - 2021)<br/>
+  </li>
 </ul>
 
 <h2>🌐 Projects</h2>
