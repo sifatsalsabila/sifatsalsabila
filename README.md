@@ -32,8 +32,12 @@
 </ul>
 
 <h2>📢 Contact</h2>
-<ul>
-  <li><strong>Email:</strong> <a href="mailto:sifa.tsalsabila.hasyifah@mail.ugm.ac.id">sifa.tsalsabila.hasyifah@mail.ugm.ac.id</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/sifa-tsalsabila-hasyifah">linkedin.com/in/sifa-tsalsabila-hasyifah</a></li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/sifatsalsabila">github.com/sifatsalsabila</a></li>
-</ul>
+[<img align="left" alt="SifaTsalsabila | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SifaTsalsabila | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="SifaTsalsabila | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+<br/>
+
+[linkedin]: https://linkedin.com/in/sifa-tsalsabila-hasyifah
+[github]: https://github.com/sifatsalsabila
+[email]: mailto:sifa.tsalsabila.hasyifah@mail.ugm.ac.id
