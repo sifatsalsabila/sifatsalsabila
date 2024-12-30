@@ -38,6 +38,16 @@
   </li>
 </ul>
 
+<h2>✍ Booth Camps and Courses </h2>
+<ul>
+  <li><strong>Bootcamp Arduino by PT Tikitobot Robotika Indonesia</strong><br/>
+      <em> Bootcamp Class Batch 2 with the topic of "Introduction to Basic Python Programming and Its Practical Application for Arduino"
+        
+  </li>
+  <li><strong>Practical Industrial Control System Penetration Testing by Udemy</strong><br/>
+      <em>Learn important pentest tools from Kali and open source tools and you can try them out in 6 interactive simulations of industrial controllers.</em>
+  </li>
+  
 <h2>📢 Connect with Me</h2>
 <p>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sifa.tsalsabila.hasyifah@mail.ugm.ac.id" target="_blank">
