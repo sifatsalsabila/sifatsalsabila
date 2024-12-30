@@ -38,7 +38,7 @@
   </li>
 </ul>
 
-<h2>✍ Boothcamps and Courses </h2>
+<h2>✍ Bootcamps and Courses </h2>
 <ul>
   <li><strong>Bootcamp Arduino by PT Tikitobot Robotika Indonesia</strong><br/>
       <em> Bootcamp Class Batch 2 with the topic of "Introduction to Basic Python Programming and Its Practical Application for Arduino"
