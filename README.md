@@ -4,6 +4,8 @@
 <h2>📊 About Me</h2>
 <p>I am a final year undergraduate student of Engineering Physics at Gadjah Mada University with an interest in Mechatronics and Industrial Instrumentation. I am responsible, hardworking, and adaptable to new environments. Have a passion for continuous learning and developing new skills.</p>
 
+</p> I have good experience in leadership and teamwork, check on the link below. </p> 🔗 https://github.com/sifatsalsabila/Leadership-Experience
+
 <h2>🌐 Skills</h2>
 <ul>
   <li><strong>Programming:</strong> Python, C, C++</li>
