@@ -28,10 +28,10 @@
       <em>Analyzing communication efficiency in PLC systems.</em>
   </li>
   <li><strong>Automation Program for Boiler Water Level Control:</strong><br/>
-      <em>Developed an automation system using Allen-Bradley PLC.</em>
+      <em>Developed an automation system using Allen-Bradley PLC.</em> <<br/> 🔗https://drive.google.com/drive/folders/1l63YBFPtKCi8kby7aRCgOoMCPFw2118c?usp=drive_link
   </li>
   <li><strong>P&ID and Instrumentation Design:</strong><br/>
-      <em>Created P&ID, Instrument Loop Diagaram, Instrument Specification Document, HMI, and Bill of Materials.</em>
+      <em>Created P&ID, Instrument Loop Diagaram, Instrument Specification Document, HMI, and Bill of Materials.</em> <br/> 🔗https://drive.google.com/drive/folders/1b6hiOxzaaoe1iErhE4riU65Tg32hLqye?usp=drive_link
   </li>
   <li><strong>Control System for Reactor:</strong><br/>
     <em>Developed a control system using Yokogawa DCS.</em>
@@ -41,11 +41,11 @@
 <h2>✍ Bootcamps and Courses </h2>
 <ul>
   <li><strong>Bootcamp Arduino by PT Tikitobot Robotika Indonesia</strong><br/>
-      <em> Bootcamp Class Batch 2 with the topic of "Introduction to Basic Python Programming and Its Practical Application for Arduino"
+      <em> Bootcamp Class Batch 2 with the topic of "Introduction to Basic Python Programming and Its Practical Application for Arduino" <br/> Certificate: https://drive.google.com/file/d/1JYP7F_igFTvlMGsWOYV4izcxQJOq4Ssg/view?usp=drive_link
         
   </li>
   <li><strong>Practical Industrial Control System Penetration Testing by Udemy</strong><br/>
-      <em>Learn important pentest tools from Kali and open source tools and you can try them out in 6 interactive simulations of industrial controllers.</em>
+      <em>Learn important pentest tools from Kali and open source tools and you can try them out in 6 interactive simulations of industrial controllers.</em> <br/> Certificate: https://drive.google.com/file/d/1_eiRFAmRTTddQ2zVCBV0iAaseXKC5GNk/view?usp=drive_link
   </li>
   
 <h2>📢 Connect with Me</h2>
