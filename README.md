@@ -28,7 +28,7 @@
       <em>Analyzing communication efficiency in PLC systems.</em>
   </li>
   <li><strong>Automation Program for Boiler Water Level Control:</strong><br/>
-      <em>Developed an automation system using Allen-Bradley PLC.</em> <<br/> 🔗https://drive.google.com/drive/folders/1l63YBFPtKCi8kby7aRCgOoMCPFw2118c?usp=drive_link
+      <em>Developed an automation system using Allen-Bradley PLC.</em> <br/> 🔗https://drive.google.com/drive/folders/1l63YBFPtKCi8kby7aRCgOoMCPFw2118c?usp=drive_link
   </li>
   <li><strong>P&ID and Instrumentation Design:</strong><br/>
       <em>Created P&ID, Instrument Loop Diagaram, Instrument Specification Document, HMI, and Bill of Materials.</em> <br/> 🔗https://drive.google.com/drive/folders/1b6hiOxzaaoe1iErhE4riU65Tg32hLqye?usp=drive_link
