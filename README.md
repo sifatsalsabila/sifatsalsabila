@@ -17,8 +17,8 @@
 
 <h2>📚 Education</h2>
 <ul>
-  <li><strong>Bachelor of Engineering, Engineering Physics</strong> - Universitas Gadjah Mada (2021 - Present)<br/>
-      Relevant coursework:  Analog and Electronics, Mechanics, Fluid Mechanics, Industrial Instrumentation, Process Automation, Automation System Design, Instrumentation System Practicum, Artificial intelligence (AI), Application of Microprocessor Technology etc.
+  <li><strong>Bachelor of Engineering, Engineering Physics</strong> - Universitas Gadjah Mada (Aug 2021 - May 2025)<br/>
+      Coursework: Project Management, Industrial Instrumentation, Process Automation, Control Engineering, Process Engineering, Measurement and Monitoring System, Material Science and Technology, Quality Assurance, Fluid Mechanica, Heat and Mass Transfer, Thermodynamics, Data Processing, etc.
   </li>
   <li><strong>Mathematic and Sciense</strong> - SMAN 1 Tasikmalaya (2018 - 2021)<br/>
   </li>
