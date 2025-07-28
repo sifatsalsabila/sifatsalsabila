@@ -8,9 +8,12 @@
 
 <h2>🌐 Skills</h2>
 <ul>
-  <li><strong>Programming:</strong> Python, C, C++</li>
-  <li><strong>Software Tools:</strong> TIA Portal, RSLogix, Yokogawa DCS, AutoCAD, Matlab</li>
+  <li><strong>Control Systems: Siemens PLC (TIA Portal), Allen-Bradley PLC (RXLogix), Yokogawa DCS (CENTUM VP)</li>
+  <li><strong>Programming Languages: Python, C++</li>
+  <li><strong>Software & Tools: AutoCAD, MATLAB, MINITAB, MS Office, Google Workspace, Trello, Monday.com</li>
   <li><strong>Design:</strong> P&ID, Instrument Loop Diagrams, HMI, Wiring Diagaram</li>
+</ul>
+  <li><strong>Languages: Bahasa Indonesia, English, Korean</li>
 </ul>
 
 <h2>📚 Education</h2>
