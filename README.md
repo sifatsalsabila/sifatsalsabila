@@ -12,7 +12,6 @@
   <li><strong>Programming Languages: Python, C++</li>
   <li><strong>Software & Tools: AutoCAD, MATLAB, MINITAB, MS Office, Google Workspace, Trello, Monday.com</li>
   <li><strong>Design:</strong> P&ID, Instrument Loop Diagrams, HMI, Wiring Diagaram</li>
-</ul>
   <li><strong>Languages: Bahasa Indonesia, English, Korean</li>
 </ul>
 
