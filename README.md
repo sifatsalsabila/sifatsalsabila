@@ -1,8 +1,8 @@
 <h1>Hi, I'm Sifa Tsalsabila Hasyifah!</h1>
-<p><strong>Mechatronics and Instrument Enthusiast | Engineering Physics Student | Ex-Intern Instrument and Control at PPSDM Migas</strong></p>
+<p><strong>An Engineering Physics graduate from Gadjah Mada University | Ex-Intern Instrument and Control at PPSDM Migas</strong></p>
 
 <h2>📊 About Me</h2>
-<p>I am a final year undergraduate student of Engineering Physics at Gadjah Mada University with an interest in Mechatronics and Industrial Instrumentation. I am responsible, hardworking, and adaptable to new environments. Have a passion for continuous learning and developing new skills.</p>
+<p>An Engineering Physics graduate from Universitas Gadjah Mada, known for rapid learning and strong attention to detail. During my Instrumentation & Control Engineer Internship at PPSDM Migas, I designed a water-level control automation system using Allen-Bradley PLCs and programmed Yokogawa DCS. I actively participated in student organizations, taking on leadership and administrative duties that sharpened my organizational, problem-solving, teamwork, and adaptability skills.</p>
 
 </p> I have good experience in leadership and teamwork, check on the link below. </p> 🔗 https://github.com/sifatsalsabila/Leadership-Experience
 
